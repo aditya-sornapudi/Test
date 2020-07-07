@@ -1,1 +1,2 @@
 This contains the basics of how to use GitHub
+ And also how github manages to work in all computers
